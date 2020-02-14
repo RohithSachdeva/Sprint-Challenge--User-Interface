@@ -269,13 +269,10 @@ footer nav a {
     align-items: center;
     justify-content: center;
 }
-teal
-gold
-cadetblue
-coral
-crimson
-forestgreen
-darkorchid
-hotpink
-indigo
-dodgerblue
+
+/* About page */
+
+.aa {
+margin-bottom: 3%;
+}
+
