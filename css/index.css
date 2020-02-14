@@ -152,8 +152,8 @@ footer nav a {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 17%;
-    margin-right: 20%;
+    margin-left: 4%;
+    margin-right: 7%;
     margin-bottom: 3%;
     color:black;
 }
@@ -274,48 +274,42 @@ footer nav a {
 
 .aa {
 margin-bottom: 3%;
+width:95%
 }
 
 .container-about-page{
-    display: flex;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.blurbs{
+    width: 48%;
+	height: auto;
+	display: flex;
+	flex-direction: row;
     flex-wrap: wrap;
+    border-bottom: 1px dotted black;
+    margin-left: 5px;
+    margin-top: 50px;
 }
 
-.strategy{
-    display: flex;
-    width:48%;
-    height:auto;
-    text-align: left;
-
-}
-
-.working{
-    display: flex;
-    width:48%;
-    height:auto;
-    text-align: left;
-}
-.place{
-    display: flex;
-    width:48%;
-    height:auto;
-    text-align: left;
-}
-
-.collab{
-    display: flex;
-    width:48%;
-    height:auto;
-    text-align: left;
-}
 
 button {
     background-color: white;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 5px;
     color: black;
     padding: 15px 32px;
     text-align: center;
-    text-decoration: none;
-    margin: 4%
+    margin: 4% 4% 4% 0%;
+  }
+
+  #wrktgther{
+      margin-left: 10px;
+      margin-bottom: 30px;
+  }
+
+  .blurbs h2{
+      margin-top: 10px;
   }
