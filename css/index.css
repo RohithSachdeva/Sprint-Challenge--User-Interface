@@ -53,6 +53,8 @@ table {
 
 html, body {
     height: 100%;
+    margin-left:10%;
+    margin-right:10%;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -144,3 +146,170 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.navigation {
+    margin-top: 3%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 4%;
+    margin-right: 7%;
+    margin-bottom: 3%;
+    color:black;
+}
+
+.jumbo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3%;
+}
+
+#box1{
+    width: 12.5%;
+    height: 100px;
+    background: teal;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box2{
+    width: 12.5%;
+    height: 100px;
+    background: gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box3{
+    width: 12.5%;
+    height: 100px;
+    background: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box4{
+    width: 12.5%;
+    height: 100px;
+    background: coral;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box5{
+    width: 12.5%;
+    height: 100px;
+    background: crimson;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box6{
+    width: 12.5%;
+    height: 100px;
+    background: forestgreen;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box7{
+    width: 12.5%;
+    height: 100px;
+    background: darkorchid;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box8{
+    width: 12.5%;
+    height: 100px;
+    background: hotpink;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box9{
+    width: 12.5%;
+    height: 100px;
+    background: indigo;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box10{
+    width: 12.5%;
+    height: 100px;
+    background: dodgerblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* About page */
+
+.aa {
+margin-bottom: 3%;
+width:95%
+}
+
+.container-about-page{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.blurbs{
+    width: 48%;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px dotted black;
+    margin-left: 5px;
+    margin-top: 50px;
+}
+
+
+button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    margin: 4% 4% 4% 0%;
+  }
+
+  #wrktgther{
+      margin-left: 10px;
+      margin-bottom: 30px;
+  }
+
+  .blurbs h2{
+      margin-top: 10px;
+  }

@@ -1,0 +1,31 @@
+1.If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+	1a. Semantic HTML provides meaning to the content both for the browser and the user.  People will know what a paragraph is and and a browser will know it too if you use a <p> tag etc.  
+
+
+
+
+2. Name two big differences between display: block; and display: inline;
+
+	2a. display: block; will start on a new line and take up the whole width.  display: inline will be able to be placed within text and any height or width properties will have no effect.  
+
+
+
+
+3. What are the 4 areas of the box model?
+
+	3a. Border, Margin, Padding, and Content.  
+
+
+
+
+4. While using flexbox, what axis does the following property work on: align-items: center?
+	
+	4a.  Align-items: center .. The items are centered in the cross-axis.
+
+
+
+
+5. Explain why git is valuable to a team of developers.
+
+	5a. It allows collaboration among multiple developers to allow people to work on code together in real time.  It saves changes made by everyone (when committed/pushed), identifies who made those changes, and allows you to revert code/project states.       
